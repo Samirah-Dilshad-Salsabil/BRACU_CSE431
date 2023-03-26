@@ -10,8 +10,7 @@ Learning Twitter User Sentiments on Climate Change with Limited Labeled Data All
 Link to the paper:
 https://arxiv.org/pdf/1904.07342.pdf
 
-Group Number: 
-16
+Group Number: 16
 
 Individual Submitter:
 20301091_Samirah Dilshad Salsabil
