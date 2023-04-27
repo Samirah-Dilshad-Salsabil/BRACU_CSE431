@@ -4,6 +4,8 @@ Two public links to the Concept Map (anyone on the internet can view without log
 
 PDF: https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission3/Group16_ConceptMap.pdf
 
+presentation (anyone can view without login): https://docs.google.com/presentation/d/1a5RfLcFma5WdL32h-6f5PuYZrRyxWm4UaezGMbZSUB4/edit#slide=id.p
+
 Native/original format: https://app.diagrams.net/#G1uzolh91LF-TeBnrC66UnxUB1y16_Yq2F
 
 Name, Author, Edition, year, and publisher of the Book:
