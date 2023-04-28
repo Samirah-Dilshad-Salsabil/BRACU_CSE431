@@ -6,7 +6,7 @@ Paper title:
 Effectiveness of Machine Learning-Based Sentiment Analysis Techniques on Social Media Data
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1k8No712-_NByD9yl40WiMwZ-JlIGVkm9Qy_PA_jNKXE/edit#slide=id.gdcb566e1d5_0_62
+https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission4/paper.pdf
 
 
 
