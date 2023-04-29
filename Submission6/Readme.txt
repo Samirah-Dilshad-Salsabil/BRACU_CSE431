@@ -7,8 +7,8 @@ Paper title:
 Effectiveness of Machine Learning-Based Sentiment Analysis Techniques on Social Media Data
 
 Paper presentation (anyone can view without login):
-https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission5/2023_Spring_Effectiveness_of_Machine_Learning_Based_Sentiment_Analysis_Techniques_on_Social_Media_Data%20(3).pdf
 
+https://docs.google.com/presentation/d/1k8No712-_NByD9yl40WiMwZ-JlIGVkm9Qy_PA_jNKXE/edit#slide=id.gdcb566e1d5_0_62
 
 
 Group Number: 16
