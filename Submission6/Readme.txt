@@ -3,13 +3,13 @@ Overleaf link with edit access to ST, RA and my gmail:
 https://www.overleaf.com/9882843964nhgtbfypzvqn 
 
 Unlisted YouTube video: 
-https://youtu.be/xP4XfXTqmyA
+https://youtu.be/z4UekWJlSCc
 
 Paper title:
 Effectiveness of Machine Learning-Based Sentiment Analysis Techniques on Social Media Data
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1k8No712-_NByD9yl40WiMwZ-JlIGVkm9Qy_PA_jNKXE/edit#slide=id.gdcb566e1d5_0_62
+https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission6/2023_Spring_Effectiveness_of_Machine_Learning_Based_Sentiment_Analysis_Techniques_on_Social_Media_Data.pdf 
 
 
 Group Number: 16
