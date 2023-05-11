@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/z4UekWJlSCc
 
 Paper title:
-Effectiveness of Machine Learning-Based Sentiment Analysis Techniques on Social Media Data
+Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sentiment Analysis on Twitter Dataset
 
 Paper presentation (anyone can view without login): 
 https://github.com/Samirah-Dilshad-
