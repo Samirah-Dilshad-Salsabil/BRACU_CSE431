@@ -7,23 +7,22 @@ https://youtu.be/z4UekWJlSCc
 Paper title:
 Effectiveness of Machine Learning-Based Sentiment Analysis Techniques on Social Media Data
 
-Paper presentation (anyone can view without login):
+Paper presentation (anyone can view without login): 
 https://github.com/Samirah-Dilshad-
-
-
-Conference submitted paper / paper submission / login Link: 
-
-Paper submission date (to workshop/conference):
-
 
 Paper submission ID: (received) from conference/workshop
 
-Conference Name:
+Conference login link for submitted paper: 
+https://cats23.gust.edu.kw/ 
 
+Conference Name:  
+IEEE International Conference CATS’23
 
-Conference URL:
+Conference URL: 
+https://easychair.org/conferences/?conf=cats23 
 
-
+Conference Submission Date: 
+10 May 2023
 
 Group Number: 16
 Group Members:
