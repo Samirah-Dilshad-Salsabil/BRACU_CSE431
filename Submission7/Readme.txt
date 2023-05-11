@@ -11,6 +11,20 @@ Paper presentation (anyone can view without login):
 https://github.com/Samirah-Dilshad-
 
 
+Conference submitted paper / paper submission / login Link: 
+
+Paper submission date (to workshop/conference):
+
+
+Paper submission ID: (received) from conference/workshop
+
+Conference Name:
+
+
+Conference URL:
+
+
+
 Group Number: 16
 Group Members:
 20301091 Samirah Dilshad Salsabil
