@@ -13,7 +13,7 @@ https://github.com/Samirah-Dilshad-
 Paper submission ID: (received) from conference/workshop
 
 Conference login link for submitted paper: 
-https://cats23.gust.edu.kw/ 
+https://easychair.org/account/signin
 
 Conference Name:  
 IEEE International Conference CATS’23
@@ -30,4 +30,4 @@ Group Members:
 20301193 Jannatul Ferdoshi
 
 Md Humaion Kabir Mehedi (RA)
-MD. MUSTAKIN ALAM (ST)
+Ehsanur Rahman Rhythm (ST)
