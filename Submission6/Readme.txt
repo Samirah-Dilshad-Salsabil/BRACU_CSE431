@@ -6,7 +6,7 @@ Unlisted YouTube video:
 https://youtu.be/z4UekWJlSCc
 
 Paper title:
-Effectiveness of Machine Learning-Based Sentiment Analysis Techniques on Social Media Data
+Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sentiment Analysis on Twitter Dataset
 
 Paper presentation (anyone can view without login):
 https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission6/2023_Spring_Effectiveness_of_Machine_Learning_Based_Sentiment_Analysis_Techniques_on_Social_Media_Data.pdf 
@@ -18,4 +18,4 @@ Group Members:
 20301193 Jannatul Ferdoshi
 
 Md Humaion Kabir Mehedi (RA)
-MD. MUSTAKIN ALAM (ST)
+Ehsanur Rahman Rhythm (ST)
