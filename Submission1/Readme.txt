@@ -8,9 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1DqgLUIe8gd-2i1x3ZinJ7rZtQ1f4_kp71QoMhjPiHbk/edit#slide=id.g21fd85441b1_1_229 
 
 Project title:
-Effectiveness of Machine Learning-Based Sentiment Analysis Techniques on Social Media Data
-
-
+Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sentiment Analysis on Twitter Dataset
 
 Group Number: 16
 Group Members:
@@ -18,4 +16,4 @@ Group Members:
 20301193 Jannatul Ferdoshi
 
 Md Humaion Kabir Mehedi (RA)
-MD. MUSTAKIN ALAM (ST)
+Ehsanur Rahman Rhythm (ST)
