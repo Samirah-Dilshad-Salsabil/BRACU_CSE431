@@ -10,7 +10,7 @@ Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sentiment 
 Paper presentation (anyone can view without login): 
 https://github.com/Samirah-Dilshad-
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: 8
 
 Conference login link for submitted paper: 
 https://easychair.org/account/signin
