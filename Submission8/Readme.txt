@@ -10,13 +10,17 @@ Unlocking Legal Insights: NLP-driven Named Entity Extraction in Legal Texts
 Paper presentation (anyone can view without login): 
 https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission8/2023_Spring_Unlocking_Legal_Insights__NLP_driven_Named_Entity_Extraction_in_Legal_Texts%20(1).pdf
 
-Conference login link for submitted paper: https://easychair.org/account/signin
+Conference login link for submitted paper: 
+https://easychair.org/account/signin
 
-Conference Name:  IEEE International Conference CATS’23
+Conference Name:  
+IEEE International Conference CATS’23
 
-Conference URL: https://easychair.org/conferences/?conf=cats23 
+Conference URL: 
+https://easychair.org/conferences/?conf=cats23 
 
-Conference Submission Date: 14 May 2023 
+Conference Submission Date: 
+14 May 2023 
 
 
 
